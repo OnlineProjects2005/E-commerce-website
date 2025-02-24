@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(33, 60, 85);
+}
+
+img {
+    border-radius: 30%;
+}
+
+.border {
+    border-radius: 50%;
+}
+
+.mar1 {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.mar2 {
+    margin-top: 60px;
+    margin-left: 0px;
+}
+
+.mar3 {
+    margin-left: 70px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+
+.mar4 {
+    margin-bottom: 100px;
+}
+
+.mar5 {
+    margin-left: 50px;
+}
